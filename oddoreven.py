@@ -4,4 +4,4 @@ if n%2==0:
 elif n<0:
     print("invalid")
 else:
-    print("odd")
+    print("Odd")
